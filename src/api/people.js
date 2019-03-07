@@ -1,9 +1,10 @@
 import { get } from './_helper';
 
-export const getAll = ({ page = 1 }) => {
+export const getAll = ({ page = 1, search = 'e' }) => {
   const urlParams = new URLSearchParams();
 
   urlParams.set('page', page);
+  urlParams.set('search', search);
 
   return get(`/people?${urlParams.toString()}`);
 };

@@ -43,8 +43,8 @@ class PeoplePage extends React.Component {
   };
 
   render() {
-    console.log(this.props.location.search);
     const { people, isLoaded, count, page } = this.state;
+
     return (
       <div className="PeoplePage">
         <h1>People page</h1>
