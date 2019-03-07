@@ -1,14 +1,13 @@
 {
-  "main.css": "/fs_on_dec18-swapi-app/static/css/main.4754355f.chunk.css",
-  "main.js": "/fs_on_dec18-swapi-app/static/js/main.d8751045.chunk.js",
-  "main.js.map": "/fs_on_dec18-swapi-app/static/js/main.d8751045.chunk.js.map",
+  "main.css": "/fs_on_dec18-swapi-app/static/css/main.cd36ac37.chunk.css",
+  "main.js": "/fs_on_dec18-swapi-app/static/js/main.3d9ef387.chunk.js",
+  "main.js.map": "/fs_on_dec18-swapi-app/static/js/main.3d9ef387.chunk.js.map",
   "runtime~main.js": "/fs_on_dec18-swapi-app/static/js/runtime~main.e937deb4.js",
   "runtime~main.js.map": "/fs_on_dec18-swapi-app/static/js/runtime~main.e937deb4.js.map",
-  "static/js/2.948d4d77.chunk.js": "/fs_on_dec18-swapi-app/static/js/2.948d4d77.chunk.js",
-  "static/js/2.948d4d77.chunk.js.map": "/fs_on_dec18-swapi-app/static/js/2.948d4d77.chunk.js.map",
+  "static/js/2.bda05572.chunk.js": "/fs_on_dec18-swapi-app/static/js/2.bda05572.chunk.js",
+  "static/js/2.bda05572.chunk.js.map": "/fs_on_dec18-swapi-app/static/js/2.bda05572.chunk.js.map",
   "index.html": "/fs_on_dec18-swapi-app/index.html",
-  "precache-manifest.f9728ee55e88fb3c0ed380c9aea093c2.js": "/fs_on_dec18-swapi-app/precache-manifest.f9728ee55e88fb3c0ed380c9aea093c2.js",
+  "precache-manifest.9ac9ba83aa1bf18ef35963f70c51e43d.js": "/fs_on_dec18-swapi-app/precache-manifest.9ac9ba83aa1bf18ef35963f70c51e43d.js",
   "service-worker.js": "/fs_on_dec18-swapi-app/service-worker.js",
-  "static/css/main.4754355f.chunk.css.map": "/fs_on_dec18-swapi-app/static/css/main.4754355f.chunk.css.map",
-  "static/media/logo.svg": "/fs_on_dec18-swapi-app/static/media/logo.5d5d9eef.svg"
+  "static/css/main.cd36ac37.chunk.css.map": "/fs_on_dec18-swapi-app/static/css/main.cd36ac37.chunk.css.map"
 }
