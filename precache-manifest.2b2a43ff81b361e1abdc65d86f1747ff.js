@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/fs_on_dec18-swapi-app/static/js/2.bda05572.chunk.js"
   },
   {
-    "revision": "98b1d345a05ad8ab6b5bdc37df9ccdf3",
+    "revision": "3e8636220c980ebce5a4f5326e708117",
     "url": "/fs_on_dec18-swapi-app/index.html"
   }
 ];
