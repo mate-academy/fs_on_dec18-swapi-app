@@ -6,7 +6,7 @@ import Pagination from '../Common/Pagination'
 class PeoplePage extends React.Component {
   state = {
     isLoaded: false,
-    page: 1,
+    page: 0,
     count: 0,
     people: [],
   };
