@@ -6,7 +6,7 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={process.env.BASE_URL}>
     <App />
   </BrowserRouter>,
 
