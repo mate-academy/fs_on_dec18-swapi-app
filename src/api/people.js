@@ -1,7 +1,11 @@
 import { get } from './_helper';
 
-export const getAll = () => {
-  return get('/people')
+export const getAll = ({ page = 1 }) => {
+  const urlParams = new URLSearchParams();
+
+  urlParams.set('page', page);
+
+  return get(`/people?${urlParams.toString()}`);
 };
 
 export const getById = (personId) => {
