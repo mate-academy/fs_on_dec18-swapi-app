@@ -1,6 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import * as peopleApi from '../api/people';
+import { getUrl } from '../api/_helper';
 import Pagination from '../Common/Pagination'
 
 class PeoplePage extends React.Component {
@@ -54,7 +56,9 @@ class PeoplePage extends React.Component {
             <Pagination count={count} page={page} />
             <ul>
               { people.map(person => (
-                <li key={person.name}>{person.name}</li>
+                <li key={person.name}>
+                  <Link to={getUrl(person.url)}>{person.name}</Link>
+                </li>
               ))}
             </ul>
           </>
